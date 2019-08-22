@@ -40,21 +40,24 @@ public class RentalStoreQuizApp {
 	}
 
 	public Store createStore() {
-		// TODO: implement the method
+		Store s = new Store(); 
 		return null;
 	}
 
 	public Customer createCustomer(String fn, String ln) {
+		Customer c = new Customer(fn, ln); 
 		// TODO: implement the method
 		return null;
 	}
 
 	public void registerCustomerAtStore(Store st, Customer ct) {
+		registerCustomerAtStore
 		// TODO: implement the method
 		
 	}
 	
 	public void displayData (Store s) {
+		displayData
 		// TODO: implement the method
 	
 	}

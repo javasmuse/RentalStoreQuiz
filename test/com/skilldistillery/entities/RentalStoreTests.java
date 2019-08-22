@@ -12,11 +12,13 @@ class RentalStoreTests {
 
 	@BeforeEach
 	void setUp() throws Exception {
+		setUp
 		// TODO: implement
 	}
 
 	@AfterEach
 	void tearDown() throws Exception {
+		tearDown
 		// TODO: implement
 
 	}
